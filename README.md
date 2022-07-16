@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Github.
-- 📫 How to reach me rosemaina@gmail.com.
+- 📫 How to reach me rosemaina327@gmail.com.
 
 <!---
 rosemaina327/rosemaina327 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
